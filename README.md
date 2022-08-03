@@ -12,3 +12,5 @@
 <p>---> Add, Filter, Search and Delete Task</p>
 <p>---> Other Supporting Pages</p>
 
+<img src="https://user-images.githubusercontent.com/97526754/182723879-6368c6ed-bc1e-4059-ade9-d80c24336c23.png" />
+
