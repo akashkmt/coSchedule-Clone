@@ -6,11 +6,10 @@
 <h3>A collaborative project built by 5 Developers within 7 days.</h3>
 <h4>Tech Stack : HTML | CSS | JavaScript </h4>
 <h4>Features : </h4>
-<p>---> Sign Up</p>
-<p>---> Login</p>
-<p>---> Create My Calendar</p>
-<p>---> Add, Filter, Search and Delete Task</p>
-<p>---> Other Supporting Pages</p>
-
+<li>Sign Up</li>
+<li>Login</li>
+<li>Create My Calendar</li>
+<li>Add, Filter, Search and Delete Task</li>
+<li>Other Supporting Pages</li>
+<br />
 <img src="https://user-images.githubusercontent.com/97526754/182723879-6368c6ed-bc1e-4059-ade9-d80c24336c23.png" />
-
